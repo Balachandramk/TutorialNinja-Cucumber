@@ -57,7 +57,7 @@ public class RegisterTest {
 		registerPage.enterPassword(dataMap.get("Password"));
 		registerPage.enterConfirmPassword(dataMap.get("Password Confirm"));
 		//FAILING ON PURPOSE
-		Assert.fail("Failing deliberately on purpose");
+		//Assert.fail("Failing deliberately on purpose");
 	}
 
 	@When("User enters below details with existing email")
