@@ -1,10 +1,10 @@
 -------------------------------------------------------------------------------
 Test set: runner.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 14, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 102.926 s <<< FAILURE! - in runner.TestRunner
-Register with mandatory fields(Register Functionality)  Time elapsed: 6.888 s  <<< FAILURE!
+Tests run: 14, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 116.803 s <<< FAILURE! - in runner.TestRunner
+Register with mandatory fields(Register Functionality)  Time elapsed: 7.452 s  <<< FAILURE!
 java.lang.AssertionError: Failing deliberately on purpose
 
-Register with All fields(Register Functionality)  Time elapsed: 6.86 s  <<< FAILURE!
+Register with All fields(Register Functionality)  Time elapsed: 9.741 s  <<< FAILURE!
 java.lang.AssertionError: Failing deliberately on purpose
 
